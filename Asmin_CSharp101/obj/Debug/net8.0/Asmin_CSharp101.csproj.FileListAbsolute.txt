@@ -1,0 +1,14 @@
+D:\dotNetTasks\Asmin_CSharp101\bin\Debug\net8.0\Asmin_CSharp101.exe
+D:\dotNetTasks\Asmin_CSharp101\bin\Debug\net8.0\Asmin_CSharp101.deps.json
+D:\dotNetTasks\Asmin_CSharp101\bin\Debug\net8.0\Asmin_CSharp101.runtimeconfig.json
+D:\dotNetTasks\Asmin_CSharp101\bin\Debug\net8.0\Asmin_CSharp101.dll
+D:\dotNetTasks\Asmin_CSharp101\bin\Debug\net8.0\Asmin_CSharp101.pdb
+D:\dotNetTasks\Asmin_CSharp101\obj\Debug\net8.0\Asmin_CSharp101.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotNetTasks\Asmin_CSharp101\obj\Debug\net8.0\Asmin_CSharp101.AssemblyInfoInputs.cache
+D:\dotNetTasks\Asmin_CSharp101\obj\Debug\net8.0\Asmin_CSharp101.AssemblyInfo.cs
+D:\dotNetTasks\Asmin_CSharp101\obj\Debug\net8.0\Asmin_CSharp101.csproj.CoreCompileInputs.cache
+D:\dotNetTasks\Asmin_CSharp101\obj\Debug\net8.0\Asmin_CSharp101.dll
+D:\dotNetTasks\Asmin_CSharp101\obj\Debug\net8.0\refint\Asmin_CSharp101.dll
+D:\dotNetTasks\Asmin_CSharp101\obj\Debug\net8.0\Asmin_CSharp101.pdb
+D:\dotNetTasks\Asmin_CSharp101\obj\Debug\net8.0\Asmin_CSharp101.genruntimeconfig.cache
+D:\dotNetTasks\Asmin_CSharp101\obj\Debug\net8.0\ref\Asmin_CSharp101.dll

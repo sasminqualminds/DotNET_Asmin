@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dotNetTasks\\Asmin_CSharp101\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF59A479-C2FC-428F-A195-A55AC0AF700C}|Asmin_CSharp101.csproj|d:\\dotnettasks\\asmin_csharp101\\fixeddeposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF59A479-C2FC-428F-A195-A55AC0AF700C}|Asmin_CSharp101.csproj|solutionrelative:fixeddeposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF59A479-C2FC-428F-A195-A55AC0AF700C}|Asmin_CSharp101.csproj|d:\\dotnettasks\\asmin_csharp101\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF59A479-C2FC-428F-A195-A55AC0AF700C}|Asmin_CSharp101.csproj|solutionrelative:savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF59A479-C2FC-428F-A195-A55AC0AF700C}|Asmin_CSharp101.csproj|d:\\dotnettasks\\asmin_csharp101\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF59A479-C2FC-428F-A195-A55AC0AF700C}|Asmin_CSharp101.csproj|solutionrelative:operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF59A479-C2FC-428F-A195-A55AC0AF700C}|Asmin_CSharp101.csproj|d:\\dotnettasks\\asmin_csharp101\\methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF59A479-C2FC-428F-A195-A55AC0AF700C}|Asmin_CSharp101.csproj|solutionrelative:methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF59A479-C2FC-428F-A195-A55AC0AF700C}|Asmin_CSharp101.csproj|d:\\dotnettasks\\asmin_csharp101\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF59A479-C2FC-428F-A195-A55AC0AF700C}|Asmin_CSharp101.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF59A479-C2FC-428F-A195-A55AC0AF700C}|Asmin_CSharp101.csproj|d:\\dotnettasks\\asmin_csharp101\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF59A479-C2FC-428F-A195-A55AC0AF700C}|Asmin_CSharp101.csproj|solutionrelative:iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Operations.cs",
+              "DocumentMoniker": "D:\\dotNetTasks\\Asmin_CSharp101\\Operations.cs",
+              "RelativeDocumentMoniker": "Operations.cs",
+              "ToolTip": "D:\\dotNetTasks\\Asmin_CSharp101\\Operations.cs",
+              "RelativeToolTip": "Operations.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T07:21:37.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Methods.cs",
+              "DocumentMoniker": "D:\\dotNetTasks\\Asmin_CSharp101\\Methods.cs",
+              "RelativeDocumentMoniker": "Methods.cs",
+              "ToolTip": "D:\\dotNetTasks\\Asmin_CSharp101\\Methods.cs",
+              "RelativeToolTip": "Methods.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T07:20:20.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FixedDeposit.cs",
+              "DocumentMoniker": "D:\\dotNetTasks\\Asmin_CSharp101\\FixedDeposit.cs",
+              "RelativeDocumentMoniker": "FixedDeposit.cs",
+              "ToolTip": "D:\\dotNetTasks\\Asmin_CSharp101\\FixedDeposit.cs",
+              "RelativeToolTip": "FixedDeposit.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T07:15:51.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "D:\\dotNetTasks\\Asmin_CSharp101\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "SavingsAccount.cs",
+              "ToolTip": "D:\\dotNetTasks\\Asmin_CSharp101\\SavingsAccount.cs",
+              "RelativeToolTip": "SavingsAccount.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T07:10:12.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAccount.cs",
+              "DocumentMoniker": "D:\\dotNetTasks\\Asmin_CSharp101\\IAccount.cs",
+              "RelativeDocumentMoniker": "IAccount.cs",
+              "ToolTip": "D:\\dotNetTasks\\Asmin_CSharp101\\IAccount.cs",
+              "RelativeToolTip": "IAccount.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T06:53:38.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotNetTasks\\Asmin_CSharp101\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\dotNetTasks\\Asmin_CSharp101\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T06:36:26.959Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
