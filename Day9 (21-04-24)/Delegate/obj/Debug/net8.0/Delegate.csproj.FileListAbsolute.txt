@@ -1,0 +1,30 @@
+D:\dotNetTasks\Delegate\bin\Debug\net8.0\Delegate.exe
+D:\dotNetTasks\Delegate\bin\Debug\net8.0\Delegate.deps.json
+D:\dotNetTasks\Delegate\bin\Debug\net8.0\Delegate.runtimeconfig.json
+D:\dotNetTasks\Delegate\bin\Debug\net8.0\Delegate.dll
+D:\dotNetTasks\Delegate\bin\Debug\net8.0\Delegate.pdb
+D:\dotNetTasks\Delegate\obj\Debug\net8.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotNetTasks\Delegate\obj\Debug\net8.0\Delegate.AssemblyInfoInputs.cache
+D:\dotNetTasks\Delegate\obj\Debug\net8.0\Delegate.AssemblyInfo.cs
+D:\dotNetTasks\Delegate\obj\Debug\net8.0\Delegate.csproj.CoreCompileInputs.cache
+D:\dotNetTasks\Delegate\obj\Debug\net8.0\Delegate.sourcelink.json
+D:\dotNetTasks\Delegate\obj\Debug\net8.0\Delegate.dll
+D:\dotNetTasks\Delegate\obj\Debug\net8.0\refint\Delegate.dll
+D:\dotNetTasks\Delegate\obj\Debug\net8.0\Delegate.pdb
+D:\dotNetTasks\Delegate\obj\Debug\net8.0\Delegate.genruntimeconfig.cache
+D:\dotNetTasks\Delegate\obj\Debug\net8.0\ref\Delegate.dll
+D:\dotNetTasks\Day9 (21-04-24)\Delegate\bin\Debug\net8.0\Delegate.exe
+D:\dotNetTasks\Day9 (21-04-24)\Delegate\bin\Debug\net8.0\Delegate.deps.json
+D:\dotNetTasks\Day9 (21-04-24)\Delegate\bin\Debug\net8.0\Delegate.runtimeconfig.json
+D:\dotNetTasks\Day9 (21-04-24)\Delegate\bin\Debug\net8.0\Delegate.dll
+D:\dotNetTasks\Day9 (21-04-24)\Delegate\bin\Debug\net8.0\Delegate.pdb
+D:\dotNetTasks\Day9 (21-04-24)\Delegate\obj\Debug\net8.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotNetTasks\Day9 (21-04-24)\Delegate\obj\Debug\net8.0\Delegate.AssemblyInfoInputs.cache
+D:\dotNetTasks\Day9 (21-04-24)\Delegate\obj\Debug\net8.0\Delegate.AssemblyInfo.cs
+D:\dotNetTasks\Day9 (21-04-24)\Delegate\obj\Debug\net8.0\Delegate.csproj.CoreCompileInputs.cache
+D:\dotNetTasks\Day9 (21-04-24)\Delegate\obj\Debug\net8.0\Delegate.sourcelink.json
+D:\dotNetTasks\Day9 (21-04-24)\Delegate\obj\Debug\net8.0\Delegate.dll
+D:\dotNetTasks\Day9 (21-04-24)\Delegate\obj\Debug\net8.0\refint\Delegate.dll
+D:\dotNetTasks\Day9 (21-04-24)\Delegate\obj\Debug\net8.0\Delegate.pdb
+D:\dotNetTasks\Day9 (21-04-24)\Delegate\obj\Debug\net8.0\Delegate.genruntimeconfig.cache
+D:\dotNetTasks\Day9 (21-04-24)\Delegate\obj\Debug\net8.0\ref\Delegate.dll

@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dotNetTasks\\Day9 (21-04-24)\\BankPart4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotNetTasks\\Day9 (21-04-24)\\BankPart4\\DoMethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DoMethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotNetTasks\\Day9 (21-04-24)\\BankPart4\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotNetTasks\\Day9 (21-04-24)\\BankPart4\\ReadingUserOption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ReadingUserOption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotNetTasks\\Day9 (21-04-24)\\BankPart4\\TransferTransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TransferTransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotNetTasks\\Day9 (21-04-24)\\BankPart4\\WithdrawTransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WithdrawTransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotNetTasks\\Day9 (21-04-24)\\BankPart4\\DepositTransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DepositTransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotNetTasks\\Day9 (21-04-24)\\BankPart4\\Account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotNetTasks\\Day9 (21-04-24)\\BankPart4\\Bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransferTransaction.cs",
+              "DocumentMoniker": "D:\\dotNetTasks\\Day9 (21-04-24)\\BankPart4\\TransferTransaction.cs",
+              "RelativeDocumentMoniker": "TransferTransaction.cs",
+              "ToolTip": "D:\\dotNetTasks\\Day9 (21-04-24)\\BankPart4\\TransferTransaction.cs",
+              "RelativeToolTip": "TransferTransaction.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAArwB4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T09:14:27.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WithdrawTransaction.cs",
+              "DocumentMoniker": "D:\\dotNetTasks\\Day9 (21-04-24)\\BankPart4\\WithdrawTransaction.cs",
+              "RelativeDocumentMoniker": "WithdrawTransaction.cs",
+              "ToolTip": "D:\\dotNetTasks\\Day9 (21-04-24)\\BankPart4\\WithdrawTransaction.cs",
+              "RelativeToolTip": "WithdrawTransaction.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAkwCcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T17:50:33.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DepositTransaction.cs",
+              "DocumentMoniker": "D:\\dotNetTasks\\Day9 (21-04-24)\\BankPart4\\DepositTransaction.cs",
+              "RelativeDocumentMoniker": "DepositTransaction.cs",
+              "ToolTip": "D:\\dotNetTasks\\Day9 (21-04-24)\\BankPart4\\DepositTransaction.cs",
+              "RelativeToolTip": "DepositTransaction.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T17:48:30.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoMethods.cs",
+              "DocumentMoniker": "D:\\dotNetTasks\\Day9 (21-04-24)\\BankPart4\\DoMethods.cs",
+              "RelativeDocumentMoniker": "DoMethods.cs",
+              "ToolTip": "D:\\dotNetTasks\\Day9 (21-04-24)\\BankPart4\\DoMethods.cs",
+              "RelativeToolTip": "DoMethods.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T17:07:52.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReadingUserOption.cs",
+              "DocumentMoniker": "D:\\dotNetTasks\\Day9 (21-04-24)\\BankPart4\\ReadingUserOption.cs",
+              "RelativeDocumentMoniker": "ReadingUserOption.cs",
+              "ToolTip": "D:\\dotNetTasks\\Day9 (21-04-24)\\BankPart4\\ReadingUserOption.cs",
+              "RelativeToolTip": "ReadingUserOption.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAcwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T16:44:46.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\dotNetTasks\\Day9 (21-04-24)\\BankPart4\\Account.cs",
+              "RelativeDocumentMoniker": "Account.cs",
+              "ToolTip": "D:\\dotNetTasks\\Day9 (21-04-24)\\BankPart4\\Account.cs",
+              "RelativeToolTip": "Account.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAYwBkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T16:39:52.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "D:\\dotNetTasks\\Day9 (21-04-24)\\BankPart4\\Bank.cs",
+              "RelativeDocumentMoniker": "Bank.cs",
+              "ToolTip": "D:\\dotNetTasks\\Day9 (21-04-24)\\BankPart4\\Bank.cs",
+              "RelativeToolTip": "Bank.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T16:30:33.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotNetTasks\\Day9 (21-04-24)\\BankPart4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\dotNetTasks\\Day9 (21-04-24)\\BankPart4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAADcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T16:25:48.759Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

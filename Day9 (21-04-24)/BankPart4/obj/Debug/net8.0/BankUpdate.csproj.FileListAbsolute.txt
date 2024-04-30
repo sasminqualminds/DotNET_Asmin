@@ -1,0 +1,15 @@
+D:\dotNetTasks\Day9 (21-04-24)\BankPart4\obj\Debug\net8.0\BankUpdate.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotNetTasks\Day9 (21-04-24)\BankPart4\obj\Debug\net8.0\BankUpdate.AssemblyInfoInputs.cache
+D:\dotNetTasks\Day9 (21-04-24)\BankPart4\obj\Debug\net8.0\BankUpdate.AssemblyInfo.cs
+D:\dotNetTasks\Day9 (21-04-24)\BankPart4\obj\Debug\net8.0\BankUpdate.csproj.CoreCompileInputs.cache
+D:\dotNetTasks\Day9 (21-04-24)\BankPart4\obj\Debug\net8.0\BankUpdate.sourcelink.json
+D:\dotNetTasks\Day9 (21-04-24)\BankPart4\bin\Debug\net8.0\BankUpdate.exe
+D:\dotNetTasks\Day9 (21-04-24)\BankPart4\bin\Debug\net8.0\BankUpdate.deps.json
+D:\dotNetTasks\Day9 (21-04-24)\BankPart4\bin\Debug\net8.0\BankUpdate.runtimeconfig.json
+D:\dotNetTasks\Day9 (21-04-24)\BankPart4\bin\Debug\net8.0\BankUpdate.dll
+D:\dotNetTasks\Day9 (21-04-24)\BankPart4\bin\Debug\net8.0\BankUpdate.pdb
+D:\dotNetTasks\Day9 (21-04-24)\BankPart4\obj\Debug\net8.0\BankUpdate.dll
+D:\dotNetTasks\Day9 (21-04-24)\BankPart4\obj\Debug\net8.0\refint\BankUpdate.dll
+D:\dotNetTasks\Day9 (21-04-24)\BankPart4\obj\Debug\net8.0\BankUpdate.pdb
+D:\dotNetTasks\Day9 (21-04-24)\BankPart4\obj\Debug\net8.0\BankUpdate.genruntimeconfig.cache
+D:\dotNetTasks\Day9 (21-04-24)\BankPart4\obj\Debug\net8.0\ref\BankUpdate.dll

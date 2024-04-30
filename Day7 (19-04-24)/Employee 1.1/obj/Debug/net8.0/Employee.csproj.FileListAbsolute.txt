@@ -1,0 +1,15 @@
+D:\dotNetTasks\Banking\Employee\bin\Debug\net8.0\Employee.exe
+D:\dotNetTasks\Banking\Employee\bin\Debug\net8.0\Employee.deps.json
+D:\dotNetTasks\Banking\Employee\bin\Debug\net8.0\Employee.runtimeconfig.json
+D:\dotNetTasks\Banking\Employee\bin\Debug\net8.0\Employee.dll
+D:\dotNetTasks\Banking\Employee\bin\Debug\net8.0\Employee.pdb
+D:\dotNetTasks\Banking\Employee\obj\Debug\net8.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotNetTasks\Banking\Employee\obj\Debug\net8.0\Employee.AssemblyInfoInputs.cache
+D:\dotNetTasks\Banking\Employee\obj\Debug\net8.0\Employee.AssemblyInfo.cs
+D:\dotNetTasks\Banking\Employee\obj\Debug\net8.0\Employee.csproj.CoreCompileInputs.cache
+D:\dotNetTasks\Banking\Employee\obj\Debug\net8.0\Employee.sourcelink.json
+D:\dotNetTasks\Banking\Employee\obj\Debug\net8.0\Employee.dll
+D:\dotNetTasks\Banking\Employee\obj\Debug\net8.0\refint\Employee.dll
+D:\dotNetTasks\Banking\Employee\obj\Debug\net8.0\Employee.pdb
+D:\dotNetTasks\Banking\Employee\obj\Debug\net8.0\Employee.genruntimeconfig.cache
+D:\dotNetTasks\Banking\Employee\obj\Debug\net8.0\ref\Employee.dll

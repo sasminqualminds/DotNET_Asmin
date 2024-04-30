@@ -1,0 +1,15 @@
+D:\dotNetTasks\ExceptionalHandling\bin\Debug\net8.0\ExceptionalHandling.exe
+D:\dotNetTasks\ExceptionalHandling\bin\Debug\net8.0\ExceptionalHandling.deps.json
+D:\dotNetTasks\ExceptionalHandling\bin\Debug\net8.0\ExceptionalHandling.runtimeconfig.json
+D:\dotNetTasks\ExceptionalHandling\bin\Debug\net8.0\ExceptionalHandling.dll
+D:\dotNetTasks\ExceptionalHandling\bin\Debug\net8.0\ExceptionalHandling.pdb
+D:\dotNetTasks\ExceptionalHandling\obj\Debug\net8.0\ExceptionalHandling.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotNetTasks\ExceptionalHandling\obj\Debug\net8.0\ExceptionalHandling.AssemblyInfoInputs.cache
+D:\dotNetTasks\ExceptionalHandling\obj\Debug\net8.0\ExceptionalHandling.AssemblyInfo.cs
+D:\dotNetTasks\ExceptionalHandling\obj\Debug\net8.0\ExceptionalHandling.csproj.CoreCompileInputs.cache
+D:\dotNetTasks\ExceptionalHandling\obj\Debug\net8.0\ExceptionalHandling.sourcelink.json
+D:\dotNetTasks\ExceptionalHandling\obj\Debug\net8.0\ExceptionalHandling.dll
+D:\dotNetTasks\ExceptionalHandling\obj\Debug\net8.0\refint\ExceptionalHandling.dll
+D:\dotNetTasks\ExceptionalHandling\obj\Debug\net8.0\ExceptionalHandling.pdb
+D:\dotNetTasks\ExceptionalHandling\obj\Debug\net8.0\ExceptionalHandling.genruntimeconfig.cache
+D:\dotNetTasks\ExceptionalHandling\obj\Debug\net8.0\ref\ExceptionalHandling.dll

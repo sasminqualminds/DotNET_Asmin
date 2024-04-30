@@ -1,0 +1,15 @@
+D:\dotNetTasks\Product\obj\Debug\net8.0\Product.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotNetTasks\Product\obj\Debug\net8.0\Product.AssemblyInfoInputs.cache
+D:\dotNetTasks\Product\obj\Debug\net8.0\Product.AssemblyInfo.cs
+D:\dotNetTasks\Product\obj\Debug\net8.0\Product.csproj.CoreCompileInputs.cache
+D:\dotNetTasks\Product\obj\Debug\net8.0\Product.sourcelink.json
+D:\dotNetTasks\Product\bin\Debug\net8.0\Product.exe
+D:\dotNetTasks\Product\bin\Debug\net8.0\Product.deps.json
+D:\dotNetTasks\Product\bin\Debug\net8.0\Product.runtimeconfig.json
+D:\dotNetTasks\Product\bin\Debug\net8.0\Product.dll
+D:\dotNetTasks\Product\bin\Debug\net8.0\Product.pdb
+D:\dotNetTasks\Product\obj\Debug\net8.0\Product.dll
+D:\dotNetTasks\Product\obj\Debug\net8.0\refint\Product.dll
+D:\dotNetTasks\Product\obj\Debug\net8.0\Product.pdb
+D:\dotNetTasks\Product\obj\Debug\net8.0\Product.genruntimeconfig.cache
+D:\dotNetTasks\Product\obj\Debug\net8.0\ref\Product.dll

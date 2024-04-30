@@ -1,0 +1,15 @@
+D:\dotNetTasks\Day2\bin\Debug\net8.0\Day2.exe
+D:\dotNetTasks\Day2\bin\Debug\net8.0\Day2.deps.json
+D:\dotNetTasks\Day2\bin\Debug\net8.0\Day2.runtimeconfig.json
+D:\dotNetTasks\Day2\bin\Debug\net8.0\Day2.dll
+D:\dotNetTasks\Day2\bin\Debug\net8.0\Day2.pdb
+D:\dotNetTasks\Day2\obj\Debug\net8.0\Day2.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotNetTasks\Day2\obj\Debug\net8.0\Day2.AssemblyInfoInputs.cache
+D:\dotNetTasks\Day2\obj\Debug\net8.0\Day2.AssemblyInfo.cs
+D:\dotNetTasks\Day2\obj\Debug\net8.0\Day2.csproj.CoreCompileInputs.cache
+D:\dotNetTasks\Day2\obj\Debug\net8.0\Day2.sourcelink.json
+D:\dotNetTasks\Day2\obj\Debug\net8.0\Day2.dll
+D:\dotNetTasks\Day2\obj\Debug\net8.0\refint\Day2.dll
+D:\dotNetTasks\Day2\obj\Debug\net8.0\Day2.pdb
+D:\dotNetTasks\Day2\obj\Debug\net8.0\Day2.genruntimeconfig.cache
+D:\dotNetTasks\Day2\obj\Debug\net8.0\ref\Day2.dll

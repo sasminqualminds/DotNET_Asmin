@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dotNetTasks\\Day10 (26-04-24)\\Shapes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD689AAF-374C-4DEC-BF25-316F986588D0}|Shapes.csproj|d:\\dotnettasks\\day10 (26-04-24)\\shapes\\abstractclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD689AAF-374C-4DEC-BF25-316F986588D0}|Shapes.csproj|solutionrelative:abstractclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD689AAF-374C-4DEC-BF25-316F986588D0}|Shapes.csproj|d:\\dotnettasks\\day10 (26-04-24)\\shapes\\interfaceclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD689AAF-374C-4DEC-BF25-316F986588D0}|Shapes.csproj|solutionrelative:interfaceclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD689AAF-374C-4DEC-BF25-316F986588D0}|Shapes.csproj|d:\\dotnettasks\\day10 (26-04-24)\\shapes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD689AAF-374C-4DEC-BF25-316F986588D0}|Shapes.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD689AAF-374C-4DEC-BF25-316F986588D0}|Shapes.csproj|d:\\dotnettasks\\day10 (26-04-24)\\shapes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD689AAF-374C-4DEC-BF25-316F986588D0}|Shapes.csproj|solutionrelative:rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD689AAF-374C-4DEC-BF25-316F986588D0}|Shapes.csproj|d:\\dotnettasks\\day10 (26-04-24)\\shapes\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD689AAF-374C-4DEC-BF25-316F986588D0}|Shapes.csproj|solutionrelative:square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "D:\\dotNetTasks\\Day10 (26-04-24)\\Shapes\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Rectangle.cs",
+              "ToolTip": "D:\\dotNetTasks\\Day10 (26-04-24)\\Shapes\\Rectangle.cs",
+              "RelativeToolTip": "Rectangle.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwBoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T13:55:24.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Square.cs",
+              "DocumentMoniker": "D:\\dotNetTasks\\Day10 (26-04-24)\\Shapes\\Square.cs",
+              "RelativeDocumentMoniker": "Square.cs",
+              "ToolTip": "D:\\dotNetTasks\\Day10 (26-04-24)\\Shapes\\Square.cs",
+              "RelativeToolTip": "Square.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T13:43:43.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AbstractClass.cs",
+              "DocumentMoniker": "D:\\dotNetTasks\\Day10 (26-04-24)\\Shapes\\AbstractClass.cs",
+              "RelativeDocumentMoniker": "AbstractClass.cs",
+              "ToolTip": "D:\\dotNetTasks\\Day10 (26-04-24)\\Shapes\\AbstractClass.cs",
+              "RelativeToolTip": "AbstractClass.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T13:39:59.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InterfaceClass.cs",
+              "DocumentMoniker": "D:\\dotNetTasks\\Day10 (26-04-24)\\Shapes\\InterfaceClass.cs",
+              "RelativeDocumentMoniker": "InterfaceClass.cs",
+              "ToolTip": "D:\\dotNetTasks\\Day10 (26-04-24)\\Shapes\\InterfaceClass.cs",
+              "RelativeToolTip": "InterfaceClass.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T13:39:50.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotNetTasks\\Day10 (26-04-24)\\Shapes\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\dotNetTasks\\Day10 (26-04-24)\\Shapes\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T13:39:31.721Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

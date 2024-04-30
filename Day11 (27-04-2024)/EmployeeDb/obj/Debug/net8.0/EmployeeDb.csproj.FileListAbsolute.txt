@@ -1,0 +1,46 @@
+D:\dotNetTasks\EmployeeDb\bin\Debug\net8.0\EmployeeDb.exe
+D:\dotNetTasks\EmployeeDb\bin\Debug\net8.0\EmployeeDb.deps.json
+D:\dotNetTasks\EmployeeDb\bin\Debug\net8.0\EmployeeDb.runtimeconfig.json
+D:\dotNetTasks\EmployeeDb\bin\Debug\net8.0\EmployeeDb.dll
+D:\dotNetTasks\EmployeeDb\bin\Debug\net8.0\EmployeeDb.pdb
+D:\dotNetTasks\EmployeeDb\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\dotNetTasks\EmployeeDb\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\dotNetTasks\EmployeeDb\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\dotNetTasks\EmployeeDb\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\dotNetTasks\EmployeeDb\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\dotNetTasks\EmployeeDb\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\dotNetTasks\EmployeeDb\obj\Debug\net8.0\EmployeeDb.csproj.AssemblyReference.cache
+D:\dotNetTasks\EmployeeDb\obj\Debug\net8.0\EmployeeDb.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotNetTasks\EmployeeDb\obj\Debug\net8.0\EmployeeDb.AssemblyInfoInputs.cache
+D:\dotNetTasks\EmployeeDb\obj\Debug\net8.0\EmployeeDb.AssemblyInfo.cs
+D:\dotNetTasks\EmployeeDb\obj\Debug\net8.0\EmployeeDb.csproj.CoreCompileInputs.cache
+D:\dotNetTasks\EmployeeDb\obj\Debug\net8.0\EmployeeDb.sourcelink.json
+D:\dotNetTasks\EmployeeDb\obj\Debug\net8.0\EmployeeDb.csproj.Up2Date
+D:\dotNetTasks\EmployeeDb\obj\Debug\net8.0\EmployeeDb.dll
+D:\dotNetTasks\EmployeeDb\obj\Debug\net8.0\refint\EmployeeDb.dll
+D:\dotNetTasks\EmployeeDb\obj\Debug\net8.0\EmployeeDb.pdb
+D:\dotNetTasks\EmployeeDb\obj\Debug\net8.0\EmployeeDb.genruntimeconfig.cache
+D:\dotNetTasks\EmployeeDb\obj\Debug\net8.0\ref\EmployeeDb.dll
+D:\dotNetTasks\Day11 (27-04-2024)\EmployeeDb\bin\Debug\net8.0\EmployeeDb.exe
+D:\dotNetTasks\Day11 (27-04-2024)\EmployeeDb\bin\Debug\net8.0\EmployeeDb.deps.json
+D:\dotNetTasks\Day11 (27-04-2024)\EmployeeDb\bin\Debug\net8.0\EmployeeDb.runtimeconfig.json
+D:\dotNetTasks\Day11 (27-04-2024)\EmployeeDb\bin\Debug\net8.0\EmployeeDb.dll
+D:\dotNetTasks\Day11 (27-04-2024)\EmployeeDb\bin\Debug\net8.0\EmployeeDb.pdb
+D:\dotNetTasks\Day11 (27-04-2024)\EmployeeDb\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\dotNetTasks\Day11 (27-04-2024)\EmployeeDb\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\dotNetTasks\Day11 (27-04-2024)\EmployeeDb\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\dotNetTasks\Day11 (27-04-2024)\EmployeeDb\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\dotNetTasks\Day11 (27-04-2024)\EmployeeDb\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\dotNetTasks\Day11 (27-04-2024)\EmployeeDb\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\dotNetTasks\Day11 (27-04-2024)\EmployeeDb\obj\Debug\net8.0\EmployeeDb.csproj.AssemblyReference.cache
+D:\dotNetTasks\Day11 (27-04-2024)\EmployeeDb\obj\Debug\net8.0\EmployeeDb.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotNetTasks\Day11 (27-04-2024)\EmployeeDb\obj\Debug\net8.0\EmployeeDb.AssemblyInfoInputs.cache
+D:\dotNetTasks\Day11 (27-04-2024)\EmployeeDb\obj\Debug\net8.0\EmployeeDb.AssemblyInfo.cs
+D:\dotNetTasks\Day11 (27-04-2024)\EmployeeDb\obj\Debug\net8.0\EmployeeDb.csproj.CoreCompileInputs.cache
+D:\dotNetTasks\Day11 (27-04-2024)\EmployeeDb\obj\Debug\net8.0\EmployeeDb.sourcelink.json
+D:\dotNetTasks\Day11 (27-04-2024)\EmployeeDb\obj\Debug\net8.0\EmployeeDb.csproj.Up2Date
+D:\dotNetTasks\Day11 (27-04-2024)\EmployeeDb\obj\Debug\net8.0\EmployeeDb.dll
+D:\dotNetTasks\Day11 (27-04-2024)\EmployeeDb\obj\Debug\net8.0\refint\EmployeeDb.dll
+D:\dotNetTasks\Day11 (27-04-2024)\EmployeeDb\obj\Debug\net8.0\EmployeeDb.pdb
+D:\dotNetTasks\Day11 (27-04-2024)\EmployeeDb\obj\Debug\net8.0\EmployeeDb.genruntimeconfig.cache
+D:\dotNetTasks\Day11 (27-04-2024)\EmployeeDb\obj\Debug\net8.0\ref\EmployeeDb.dll

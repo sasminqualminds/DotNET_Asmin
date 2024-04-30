@@ -1,0 +1,15 @@
+D:\dotNetTasks\Day10 (26-04-24)\Shapes\bin\Debug\net8.0\Shapes.exe
+D:\dotNetTasks\Day10 (26-04-24)\Shapes\bin\Debug\net8.0\Shapes.deps.json
+D:\dotNetTasks\Day10 (26-04-24)\Shapes\bin\Debug\net8.0\Shapes.runtimeconfig.json
+D:\dotNetTasks\Day10 (26-04-24)\Shapes\bin\Debug\net8.0\Shapes.dll
+D:\dotNetTasks\Day10 (26-04-24)\Shapes\bin\Debug\net8.0\Shapes.pdb
+D:\dotNetTasks\Day10 (26-04-24)\Shapes\obj\Debug\net8.0\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotNetTasks\Day10 (26-04-24)\Shapes\obj\Debug\net8.0\Shapes.AssemblyInfoInputs.cache
+D:\dotNetTasks\Day10 (26-04-24)\Shapes\obj\Debug\net8.0\Shapes.AssemblyInfo.cs
+D:\dotNetTasks\Day10 (26-04-24)\Shapes\obj\Debug\net8.0\Shapes.csproj.CoreCompileInputs.cache
+D:\dotNetTasks\Day10 (26-04-24)\Shapes\obj\Debug\net8.0\Shapes.sourcelink.json
+D:\dotNetTasks\Day10 (26-04-24)\Shapes\obj\Debug\net8.0\Shapes.dll
+D:\dotNetTasks\Day10 (26-04-24)\Shapes\obj\Debug\net8.0\refint\Shapes.dll
+D:\dotNetTasks\Day10 (26-04-24)\Shapes\obj\Debug\net8.0\Shapes.pdb
+D:\dotNetTasks\Day10 (26-04-24)\Shapes\obj\Debug\net8.0\Shapes.genruntimeconfig.cache
+D:\dotNetTasks\Day10 (26-04-24)\Shapes\obj\Debug\net8.0\ref\Shapes.dll

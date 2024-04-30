@@ -1,0 +1,15 @@
+D:\dotNetTasks\MathematicalOperations\obj\Debug\net8.0\MathematicalOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotNetTasks\MathematicalOperations\obj\Debug\net8.0\MathematicalOperations.AssemblyInfoInputs.cache
+D:\dotNetTasks\MathematicalOperations\obj\Debug\net8.0\MathematicalOperations.AssemblyInfo.cs
+D:\dotNetTasks\MathematicalOperations\obj\Debug\net8.0\MathematicalOperations.csproj.CoreCompileInputs.cache
+D:\dotNetTasks\MathematicalOperations\obj\Debug\net8.0\MathematicalOperations.sourcelink.json
+D:\dotNetTasks\MathematicalOperations\bin\Debug\net8.0\MathematicalOperations.exe
+D:\dotNetTasks\MathematicalOperations\bin\Debug\net8.0\MathematicalOperations.deps.json
+D:\dotNetTasks\MathematicalOperations\bin\Debug\net8.0\MathematicalOperations.runtimeconfig.json
+D:\dotNetTasks\MathematicalOperations\bin\Debug\net8.0\MathematicalOperations.dll
+D:\dotNetTasks\MathematicalOperations\bin\Debug\net8.0\MathematicalOperations.pdb
+D:\dotNetTasks\MathematicalOperations\obj\Debug\net8.0\MathematicalOperations.dll
+D:\dotNetTasks\MathematicalOperations\obj\Debug\net8.0\refint\MathematicalOperations.dll
+D:\dotNetTasks\MathematicalOperations\obj\Debug\net8.0\MathematicalOperations.pdb
+D:\dotNetTasks\MathematicalOperations\obj\Debug\net8.0\MathematicalOperations.genruntimeconfig.cache
+D:\dotNetTasks\MathematicalOperations\obj\Debug\net8.0\ref\MathematicalOperations.dll

@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dotNetTasks\\Day8 (20-04-24)\\MathematicalOperations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7675A2E-A0AC-400F-B4E5-C9DAA30A14ED}|MathematicalOperations.csproj|d:\\dotnettasks\\day8 (20-04-24)\\mathematicaloperations\\domethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7675A2E-A0AC-400F-B4E5-C9DAA30A14ED}|MathematicalOperations.csproj|solutionrelative:domethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7675A2E-A0AC-400F-B4E5-C9DAA30A14ED}|MathematicalOperations.csproj|d:\\dotnettasks\\day8 (20-04-24)\\mathematicaloperations\\operationmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7675A2E-A0AC-400F-B4E5-C9DAA30A14ED}|MathematicalOperations.csproj|solutionrelative:operationmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7675A2E-A0AC-400F-B4E5-C9DAA30A14ED}|MathematicalOperations.csproj|d:\\dotnettasks\\day8 (20-04-24)\\mathematicaloperations\\operationclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7675A2E-A0AC-400F-B4E5-C9DAA30A14ED}|MathematicalOperations.csproj|solutionrelative:operationclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7675A2E-A0AC-400F-B4E5-C9DAA30A14ED}|MathematicalOperations.csproj|d:\\dotnettasks\\day8 (20-04-24)\\mathematicaloperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7675A2E-A0AC-400F-B4E5-C9DAA30A14ED}|MathematicalOperations.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7675A2E-A0AC-400F-B4E5-C9DAA30A14ED}|MathematicalOperations.csproj|d:\\dotnettasks\\day8 (20-04-24)\\mathematicaloperations\\readuseroption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7675A2E-A0AC-400F-B4E5-C9DAA30A14ED}|MathematicalOperations.csproj|solutionrelative:readuseroption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7675A2E-A0AC-400F-B4E5-C9DAA30A14ED}|MathematicalOperations.csproj|d:\\dotnettasks\\day8 (20-04-24)\\mathematicaloperations\\menuoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7675A2E-A0AC-400F-B4E5-C9DAA30A14ED}|MathematicalOperations.csproj|solutionrelative:menuoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReadUserOption.cs",
+              "DocumentMoniker": "D:\\dotNetTasks\\Day8 (20-04-24)\\MathematicalOperations\\ReadUserOption.cs",
+              "RelativeDocumentMoniker": "ReadUserOption.cs",
+              "ToolTip": "D:\\dotNetTasks\\Day8 (20-04-24)\\MathematicalOperations\\ReadUserOption.cs",
+              "RelativeToolTip": "ReadUserOption.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAAB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T18:51:23.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenuOption.cs",
+              "DocumentMoniker": "D:\\dotNetTasks\\Day8 (20-04-24)\\MathematicalOperations\\MenuOption.cs",
+              "RelativeDocumentMoniker": "MenuOption.cs",
+              "ToolTip": "D:\\dotNetTasks\\Day8 (20-04-24)\\MathematicalOperations\\MenuOption.cs",
+              "RelativeToolTip": "MenuOption.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T18:50:16.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoMethods.cs",
+              "DocumentMoniker": "D:\\dotNetTasks\\Day8 (20-04-24)\\MathematicalOperations\\DoMethods.cs",
+              "RelativeDocumentMoniker": "DoMethods.cs",
+              "ToolTip": "D:\\dotNetTasks\\Day8 (20-04-24)\\MathematicalOperations\\DoMethods.cs",
+              "RelativeToolTip": "DoMethods.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T17:12:15.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OperationMethods.cs",
+              "DocumentMoniker": "D:\\dotNetTasks\\Day8 (20-04-24)\\MathematicalOperations\\OperationMethods.cs",
+              "RelativeDocumentMoniker": "OperationMethods.cs",
+              "ToolTip": "D:\\dotNetTasks\\Day8 (20-04-24)\\MathematicalOperations\\OperationMethods.cs",
+              "RelativeToolTip": "OperationMethods.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwCQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T17:12:03.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OperationClass.cs",
+              "DocumentMoniker": "D:\\dotNetTasks\\Day8 (20-04-24)\\MathematicalOperations\\OperationClass.cs",
+              "RelativeDocumentMoniker": "OperationClass.cs",
+              "ToolTip": "D:\\dotNetTasks\\Day8 (20-04-24)\\MathematicalOperations\\OperationClass.cs",
+              "RelativeToolTip": "OperationClass.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T17:11:36.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotNetTasks\\Day8 (20-04-24)\\MathematicalOperations\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\dotNetTasks\\Day8 (20-04-24)\\MathematicalOperations\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T17:11:05.253Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

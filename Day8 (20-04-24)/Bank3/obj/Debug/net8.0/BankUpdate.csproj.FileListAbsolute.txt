@@ -1,0 +1,15 @@
+D:\BankUpdate\BankUpdate\bin\Debug\net8.0\BankUpdate.exe
+D:\BankUpdate\BankUpdate\bin\Debug\net8.0\BankUpdate.deps.json
+D:\BankUpdate\BankUpdate\bin\Debug\net8.0\BankUpdate.runtimeconfig.json
+D:\BankUpdate\BankUpdate\bin\Debug\net8.0\BankUpdate.dll
+D:\BankUpdate\BankUpdate\bin\Debug\net8.0\BankUpdate.pdb
+D:\BankUpdate\BankUpdate\obj\Debug\net8.0\BankUpdate.GeneratedMSBuildEditorConfig.editorconfig
+D:\BankUpdate\BankUpdate\obj\Debug\net8.0\BankUpdate.AssemblyInfoInputs.cache
+D:\BankUpdate\BankUpdate\obj\Debug\net8.0\BankUpdate.AssemblyInfo.cs
+D:\BankUpdate\BankUpdate\obj\Debug\net8.0\BankUpdate.csproj.CoreCompileInputs.cache
+D:\BankUpdate\BankUpdate\obj\Debug\net8.0\BankUpdate.sourcelink.json
+D:\BankUpdate\BankUpdate\obj\Debug\net8.0\BankUpdate.dll
+D:\BankUpdate\BankUpdate\obj\Debug\net8.0\refint\BankUpdate.dll
+D:\BankUpdate\BankUpdate\obj\Debug\net8.0\BankUpdate.pdb
+D:\BankUpdate\BankUpdate\obj\Debug\net8.0\BankUpdate.genruntimeconfig.cache
+D:\BankUpdate\BankUpdate\obj\Debug\net8.0\ref\BankUpdate.dll

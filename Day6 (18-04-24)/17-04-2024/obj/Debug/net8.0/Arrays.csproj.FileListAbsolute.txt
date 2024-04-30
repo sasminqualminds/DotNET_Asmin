@@ -1,0 +1,15 @@
+D:\dotNetTasks\Banking\Arrays\bin\Debug\net8.0\Arrays.exe
+D:\dotNetTasks\Banking\Arrays\bin\Debug\net8.0\Arrays.deps.json
+D:\dotNetTasks\Banking\Arrays\bin\Debug\net8.0\Arrays.runtimeconfig.json
+D:\dotNetTasks\Banking\Arrays\bin\Debug\net8.0\Arrays.dll
+D:\dotNetTasks\Banking\Arrays\bin\Debug\net8.0\Arrays.pdb
+D:\dotNetTasks\Banking\Arrays\obj\Debug\net8.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotNetTasks\Banking\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfoInputs.cache
+D:\dotNetTasks\Banking\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfo.cs
+D:\dotNetTasks\Banking\Arrays\obj\Debug\net8.0\Arrays.csproj.CoreCompileInputs.cache
+D:\dotNetTasks\Banking\Arrays\obj\Debug\net8.0\Arrays.sourcelink.json
+D:\dotNetTasks\Banking\Arrays\obj\Debug\net8.0\Arrays.dll
+D:\dotNetTasks\Banking\Arrays\obj\Debug\net8.0\refint\Arrays.dll
+D:\dotNetTasks\Banking\Arrays\obj\Debug\net8.0\Arrays.pdb
+D:\dotNetTasks\Banking\Arrays\obj\Debug\net8.0\Arrays.genruntimeconfig.cache
+D:\dotNetTasks\Banking\Arrays\obj\Debug\net8.0\ref\Arrays.dll

@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dotNetTasks\\Day12 (28-04-2024)\\EmployeeDb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F83396-16BB-45CF-BBD8-51A7763B4C3C}|EmployeeDb.csproj|d:\\dotnettasks\\day12 (28-04-2024)\\employeedb\\domethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F83396-16BB-45CF-BBD8-51A7763B4C3C}|EmployeeDb.csproj|solutionrelative:domethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F83396-16BB-45CF-BBD8-51A7763B4C3C}|EmployeeDb.csproj|d:\\dotnettasks\\day12 (28-04-2024)\\employeedb\\employeehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F83396-16BB-45CF-BBD8-51A7763B4C3C}|EmployeeDb.csproj|solutionrelative:employeehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F83396-16BB-45CF-BBD8-51A7763B4C3C}|EmployeeDb.csproj|d:\\dotnettasks\\day12 (28-04-2024)\\employeedb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F83396-16BB-45CF-BBD8-51A7763B4C3C}|EmployeeDb.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F83396-16BB-45CF-BBD8-51A7763B4C3C}|EmployeeDb.csproj|d:\\dotnettasks\\day12 (28-04-2024)\\employeedb\\readinguseroption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F83396-16BB-45CF-BBD8-51A7763B4C3C}|EmployeeDb.csproj|solutionrelative:readinguseroption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F83396-16BB-45CF-BBD8-51A7763B4C3C}|EmployeeDb.csproj|d:\\dotnettasks\\day12 (28-04-2024)\\employeedb\\employeedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F83396-16BB-45CF-BBD8-51A7763B4C3C}|EmployeeDb.csproj|solutionrelative:employeedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeData.cs",
+              "DocumentMoniker": "D:\\dotNetTasks\\Day12 (28-04-2024)\\EmployeeDb\\EmployeeData.cs",
+              "RelativeDocumentMoniker": "EmployeeData.cs",
+              "ToolTip": "D:\\dotNetTasks\\Day12 (28-04-2024)\\EmployeeDb\\EmployeeData.cs",
+              "RelativeToolTip": "EmployeeData.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAvwA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T08:04:21.257Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoMethods.cs",
+              "DocumentMoniker": "D:\\dotNetTasks\\Day12 (28-04-2024)\\EmployeeDb\\DoMethods.cs",
+              "RelativeDocumentMoniker": "DoMethods.cs",
+              "ToolTip": "D:\\dotNetTasks\\Day12 (28-04-2024)\\EmployeeDb\\DoMethods.cs",
+              "RelativeToolTip": "DoMethods.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T13:28:54.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReadingUserOption.cs",
+              "DocumentMoniker": "D:\\dotNetTasks\\Day12 (28-04-2024)\\EmployeeDb\\ReadingUserOption.cs",
+              "RelativeDocumentMoniker": "ReadingUserOption.cs",
+              "ToolTip": "D:\\dotNetTasks\\Day12 (28-04-2024)\\EmployeeDb\\ReadingUserOption.cs",
+              "RelativeToolTip": "ReadingUserOption.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T07:55:54.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotNetTasks\\Day12 (28-04-2024)\\EmployeeDb\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\dotNetTasks\\Day12 (28-04-2024)\\EmployeeDb\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAAEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T07:42:30.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeHelper.cs",
+              "DocumentMoniker": "D:\\dotNetTasks\\Day12 (28-04-2024)\\EmployeeDb\\EmployeeHelper.cs",
+              "RelativeDocumentMoniker": "EmployeeHelper.cs",
+              "ToolTip": "D:\\dotNetTasks\\Day12 (28-04-2024)\\EmployeeDb\\EmployeeHelper.cs",
+              "RelativeToolTip": "EmployeeHelper.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAUwCQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T07:42:11.805Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
