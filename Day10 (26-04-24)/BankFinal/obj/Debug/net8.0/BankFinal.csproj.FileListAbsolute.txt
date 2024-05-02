@@ -1,0 +1,30 @@
+D:\DotNetAssignmentClass\BankPart4\bin\Debug\net8.0\BankFinal.exe
+D:\DotNetAssignmentClass\BankPart4\bin\Debug\net8.0\BankFinal.deps.json
+D:\DotNetAssignmentClass\BankPart4\bin\Debug\net8.0\BankFinal.runtimeconfig.json
+D:\DotNetAssignmentClass\BankPart4\bin\Debug\net8.0\BankFinal.dll
+D:\DotNetAssignmentClass\BankPart4\bin\Debug\net8.0\BankFinal.pdb
+D:\DotNetAssignmentClass\BankPart4\obj\Debug\net8.0\BankFinal.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetAssignmentClass\BankPart4\obj\Debug\net8.0\BankFinal.AssemblyInfoInputs.cache
+D:\DotNetAssignmentClass\BankPart4\obj\Debug\net8.0\BankFinal.AssemblyInfo.cs
+D:\DotNetAssignmentClass\BankPart4\obj\Debug\net8.0\BankFinal.csproj.CoreCompileInputs.cache
+D:\DotNetAssignmentClass\BankPart4\obj\Debug\net8.0\BankFinal.sourcelink.json
+D:\DotNetAssignmentClass\BankPart4\obj\Debug\net8.0\BankFinal.dll
+D:\DotNetAssignmentClass\BankPart4\obj\Debug\net8.0\refint\BankFinal.dll
+D:\DotNetAssignmentClass\BankPart4\obj\Debug\net8.0\BankFinal.pdb
+D:\DotNetAssignmentClass\BankPart4\obj\Debug\net8.0\BankFinal.genruntimeconfig.cache
+D:\DotNetAssignmentClass\BankPart4\obj\Debug\net8.0\ref\BankFinal.dll
+D:\dotNetTasks\Day10 (26-04-24)\BankFinal\bin\Debug\net8.0\BankFinal.exe
+D:\dotNetTasks\Day10 (26-04-24)\BankFinal\bin\Debug\net8.0\BankFinal.deps.json
+D:\dotNetTasks\Day10 (26-04-24)\BankFinal\bin\Debug\net8.0\BankFinal.runtimeconfig.json
+D:\dotNetTasks\Day10 (26-04-24)\BankFinal\bin\Debug\net8.0\BankFinal.dll
+D:\dotNetTasks\Day10 (26-04-24)\BankFinal\bin\Debug\net8.0\BankFinal.pdb
+D:\dotNetTasks\Day10 (26-04-24)\BankFinal\obj\Debug\net8.0\BankFinal.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotNetTasks\Day10 (26-04-24)\BankFinal\obj\Debug\net8.0\BankFinal.AssemblyInfoInputs.cache
+D:\dotNetTasks\Day10 (26-04-24)\BankFinal\obj\Debug\net8.0\BankFinal.AssemblyInfo.cs
+D:\dotNetTasks\Day10 (26-04-24)\BankFinal\obj\Debug\net8.0\BankFinal.csproj.CoreCompileInputs.cache
+D:\dotNetTasks\Day10 (26-04-24)\BankFinal\obj\Debug\net8.0\BankFinal.sourcelink.json
+D:\dotNetTasks\Day10 (26-04-24)\BankFinal\obj\Debug\net8.0\BankFinal.dll
+D:\dotNetTasks\Day10 (26-04-24)\BankFinal\obj\Debug\net8.0\refint\BankFinal.dll
+D:\dotNetTasks\Day10 (26-04-24)\BankFinal\obj\Debug\net8.0\BankFinal.pdb
+D:\dotNetTasks\Day10 (26-04-24)\BankFinal\obj\Debug\net8.0\BankFinal.genruntimeconfig.cache
+D:\dotNetTasks\Day10 (26-04-24)\BankFinal\obj\Debug\net8.0\ref\BankFinal.dll

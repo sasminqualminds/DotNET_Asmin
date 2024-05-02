@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DotNetAssignmentClass\\BankPart4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E559F20E-D632-483C-B747-F20214E0613F}|Simple.csproj|d:\\dotnetassignmentclass\\bankpart4\\transfertransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E559F20E-D632-483C-B747-F20214E0613F}|Simple.csproj|solutionrelative:transfertransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E559F20E-D632-483C-B747-F20214E0613F}|Simple.csproj|d:\\dotnetassignmentclass\\bankpart4\\domethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E559F20E-D632-483C-B747-F20214E0613F}|Simple.csproj|solutionrelative:domethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E559F20E-D632-483C-B747-F20214E0613F}|Simple.csproj|d:\\dotnetassignmentclass\\bankpart4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E559F20E-D632-483C-B747-F20214E0613F}|Simple.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E559F20E-D632-483C-B747-F20214E0613F}|Simple.csproj|d:\\dotnetassignmentclass\\bankpart4\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E559F20E-D632-483C-B747-F20214E0613F}|Simple.csproj|solutionrelative:transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E559F20E-D632-483C-B747-F20214E0613F}|Simple.csproj|d:\\dotnetassignmentclass\\bankpart4\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E559F20E-D632-483C-B747-F20214E0613F}|Simple.csproj|solutionrelative:bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E559F20E-D632-483C-B747-F20214E0613F}|Simple.csproj|d:\\dotnetassignmentclass\\bankpart4\\deposittransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E559F20E-D632-483C-B747-F20214E0613F}|Simple.csproj|solutionrelative:deposittransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E559F20E-D632-483C-B747-F20214E0613F}|Simple.csproj|d:\\dotnetassignmentclass\\bankpart4\\withdrawtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E559F20E-D632-483C-B747-F20214E0613F}|Simple.csproj|solutionrelative:withdrawtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E559F20E-D632-483C-B747-F20214E0613F}|Simple.csproj|d:\\dotnetassignmentclass\\bankpart4\\readuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E559F20E-D632-483C-B747-F20214E0613F}|Simple.csproj|solutionrelative:readuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E559F20E-D632-483C-B747-F20214E0613F}|Simple.csproj|d:\\dotnetassignmentclass\\bankpart4\\account.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E559F20E-D632-483C-B747-F20214E0613F}|Simple.csproj|solutionrelative:account.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "D:\\DotNetAssignmentClass\\BankPart4\\Transaction.cs",
+              "RelativeDocumentMoniker": "Transaction.cs",
+              "ToolTip": "D:\\DotNetAssignmentClass\\BankPart4\\Transaction.cs",
+              "RelativeToolTip": "Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T18:36:53.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "D:\\DotNetAssignmentClass\\BankPart4\\Bank.cs",
+              "RelativeDocumentMoniker": "Bank.cs",
+              "ToolTip": "D:\\DotNetAssignmentClass\\BankPart4\\Bank.cs",
+              "RelativeToolTip": "Bank.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T05:48:02.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TransferTransaction.cs",
+              "DocumentMoniker": "D:\\DotNetAssignmentClass\\BankPart4\\TransferTransaction.cs",
+              "RelativeDocumentMoniker": "TransferTransaction.cs",
+              "ToolTip": "D:\\DotNetAssignmentClass\\BankPart4\\TransferTransaction.cs",
+              "RelativeToolTip": "TransferTransaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T09:13:51.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DepositTransaction.cs",
+              "DocumentMoniker": "D:\\DotNetAssignmentClass\\BankPart4\\DepositTransaction.cs",
+              "RelativeDocumentMoniker": "DepositTransaction.cs",
+              "ToolTip": "D:\\DotNetAssignmentClass\\BankPart4\\DepositTransaction.cs",
+              "RelativeToolTip": "DepositTransaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T08:59:35.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WithdrawTransaction.cs",
+              "DocumentMoniker": "D:\\DotNetAssignmentClass\\BankPart4\\WithdrawTransaction.cs",
+              "RelativeDocumentMoniker": "WithdrawTransaction.cs",
+              "ToolTip": "D:\\DotNetAssignmentClass\\BankPart4\\WithdrawTransaction.cs",
+              "RelativeToolTip": "WithdrawTransaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T07:15:28.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoMethods.cs",
+              "DocumentMoniker": "D:\\DotNetAssignmentClass\\BankPart4\\DoMethods.cs",
+              "RelativeDocumentMoniker": "DoMethods.cs",
+              "ToolTip": "D:\\DotNetAssignmentClass\\BankPart4\\DoMethods.cs",
+              "RelativeToolTip": "DoMethods.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T06:53:09.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReadUser.cs",
+              "DocumentMoniker": "D:\\DotNetAssignmentClass\\BankPart4\\ReadUser.cs",
+              "RelativeDocumentMoniker": "ReadUser.cs",
+              "ToolTip": "D:\\DotNetAssignmentClass\\BankPart4\\ReadUser.cs",
+              "RelativeToolTip": "ReadUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T06:23:08.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Account.cs.cs",
+              "DocumentMoniker": "D:\\DotNetAssignmentClass\\BankPart4\\Account.cs.cs",
+              "RelativeDocumentMoniker": "Account.cs.cs",
+              "ToolTip": "D:\\DotNetAssignmentClass\\BankPart4\\Account.cs.cs",
+              "RelativeToolTip": "Account.cs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T06:00:33.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNetAssignmentClass\\BankPart4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\DotNetAssignmentClass\\BankPart4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T05:48:04.948Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
