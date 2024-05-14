@@ -1,0 +1,77 @@
+1. What do you mean by RestFull APIs?
+--------------------------------------
+    Everthing is a resource and every resource can be uniquely identified by a url in a structured format called Restfull api.
+
+
+2. What is the need and advantage of creating APIs in Development?
+---------------------------------------------------------------------
+    1. An interface between computer systems to exchange information securely over the internet.
+    2. To easily integrate existing services or features from other applications without developing the service or feature.
+
+
+3. What is ASP.NET CORE API role in Restfull APIs ?
+-----------------------------------------------------
+    ASP.NET Web API is a framework that makes it easy to build HTTP services.
+
+
+4. Why ASP.NET CORE API is recommended for creating APIs ?
+------------------------------------------------------------  
+    1. ASP.NET Core is designed to be lightweight and high-performance. 
+    2. Cross Platform.
+    3. Open source
+    4. It comes with a set of powerful development tools, including VS and Visual Studio Code extensions.
+
+
+5. What are the formats used in APIs ? why 
+---------------------------------------------
+    1. commonly used formats are JSON, XML, SOAP, HTML etc.,
+    2. The choice of format depends on factors such as performance, compatibility, readability, and the specific requirements of the application or system.
+
+
+6. Can we use Proprietery Binary formats while creating or communicating with APIs ? Explain
+---------------------------------------------------------------------------------------------    
+    
+    
+7. What are the differences between ASP.NET Core MVC and ASP.NET Core WebApi
+----------------------------------------------------------------------------
+     MVC returns both data and views of the data, whereas Web API merely returns HTTP services data, i.e. only data.
+
+
+8. What is Dependency Injection and how it is related to .Net Core ?
+---------------------------------------------------------------------
+    1. It is a way to provide the necessary dependencies (i.e., objects or services) to a class rather than having the class create them internally.
+    2.  In .NET Core, dependency injection is a built-in feature of the framework.
+
+
+9. What is Entity Framework and what are its advantages ?
+----------------------------------------------------------
+    1. It is an object-relational mapping (ORM) framework for .NET applications.
+    2. It provides a set of tools and libraries for developers to work with relational databases using domain-specific objects, simplifying data access and manipulation.
+    3. Entity Framework simplifies the task of accessing data from a database.
+    4. It facilitates automatic tracking of object changes, easing database updates and ensuring data consistency.
+    5. With EF, you can define a Product class in the code and easily interact with the products table in the db.       6. No need to write repetitive SQL queries for each operation – EF does it all.
+
+
+10. How many ways we can work with Entity Framework
+-----------------------------------------------------
+    There are three ways you can work with data in the Entity Framework: 
+    1. Database First
+    2. Model First 
+    3. Code First. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Add-Migration Initial
+
+
+update-database

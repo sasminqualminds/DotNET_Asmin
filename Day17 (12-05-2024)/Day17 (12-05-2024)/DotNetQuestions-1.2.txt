@@ -1,0 +1,62 @@
+1. What is asynchronous programming ?
+-------------------------------------
+	1.  allows you to write code that doesn’t block the main thread while waiting for certain operations to complete.
+	2. It uses async and await keywords.
+	3. uses Task-based Asynchronous Pattern (TAP).
+
+2. In API how async programming is usefull ?
+--------------------------------------------
+	1. Asynchronous programming in APIs offers several benefits.
+	2. asynchronous APIs handle multiple requests simultaneously.
+	3. Asynchronous programming lets your program keep doing other stuff while waiting for these tasks to finish.
+	4. It’s like multitasking.
+
+3. async keyword ?
+------------------
+	1. The async keyword is used to mark a method, as asynchronous.
+	2. When you apply async to a method, it becomes an async method.
+	3. An async method can run in the background while other code executes, making your program more responsive and efficient.
+
+4. await ?
+----------
+	1. The await keyword is used within an async method to pause execution until a specified asynchronous operation completes.
+	2. The await keyword ensures that the method doesn’t freeze the program while waiting for the task to complete.
+
+5. Task<T>
+-----------
+	1. Represents an asynchronous operation that returns a value of type T.
+	2. Task<T> is an individual unit of work.
+
+6. NotFound(), BadRequest(),... what they are and why to use ?
+---------------------------------------------------------------
+NotFound() -  1. NotFound() is a method provided by ASP.NET Web API for returning a 404 (Not Found) response.
+	      2. It indicates that the requested resource does not exist.
+BadRequest()- 1. BadRequest() is another method in ASP.NET Web API used to return a 400 (Bad Request) response.
+	      2. It signifies that the client’s request is invalid or malformed.
+Ok() (200)  - Indicates a successful request.
+InternalServerError() (500): Indicates a server error.
+Unauthorized() (401): Indicates authentication failure.
+Conflict() (409): Indicates a conflict (e.g., duplicate resource).
+NoContent() (204): Indicates success with no content to return.
+
+7. dbconcurrencyexception
+-------------------------
+	1. DBConcurrencyException is an exception in C# that occurs when there’s a concurrency violation during database operations
+	2. Imagine two users trying to update the same record simultaneously. If one user modifies the record before the other, the second user’s update might fail due to the concurrency conflict.
+
+8. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
