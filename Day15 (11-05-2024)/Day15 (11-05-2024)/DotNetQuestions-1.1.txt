@@ -1,0 +1,51 @@
+11. How ADO.Net and EntityFramework are related ?
+------------------------------------------------- 
+    1. ADO.NET includes functionalities for connecting to databases, executing SQL commands, and retrieving data into datasets or data readers.
+    2. ADO.NET works primarily with datasets, data tables, and data readers, and it requires developers to manually map database records to objects in their application code.
+    3. The Entity Framework is another enhancement to ADO.NET.
+    4. In EF, entity classes are defined that represent database tables and automatically map database records to objects of these classes. 
+
+12. What is the use of configureservices and configure ?
+--------------------------------------------------------
+ConfigureServices: This method is typically found in the Startup class of an ASP.NET Core application. Is where you configure the services that your application will use.
+
+Configure: Also located in the Startup class, Configure is where you set up the application's request processing pipeline. In this method, you specify how incoming HTTP requests should be handled and what middleware components should be used to process them.
+
+13. What is ORM & how it is related to EFW ?
+--------------------------------------------
+ORM stands for Object-Relational Mapping. It's a programming technique that allows developers to map objects from an object-oriented programming language (like C# or Java) to data stored in a relational database management system (RDBMS) and vice versa.
+ORM tools provide a way to interact with a database using programming language objects instead of directly writing SQL queries. 
+Entity Framework (EF) is closely related to Object-Relational Mapping (ORM) principles through its DbContext class.
+
+14. what is the use of appsettings.json ?
+-------------------------------------------
+appsettings.json is a configuration file commonly used in ASP.NET Core and related applications. It stores application settings such as database connection strings, API keys, and other configuration parameters, allowing developers to easily manage and customize the behavior of their applications without modifying code.
+
+15. what is the preferred location of writing connection string and why ?
+-------------------------------------------------------------------------
+The preferred location for writing connection strings in an ASP.NET Core application is usually the appsettings.json file or environment variables. This allows for centralized management and easy configuration changes without modifying the code. Additionally, it aligns with the principle of separating configuration from code, promoting maintainability and flexibility in deployment environments.
+
+16. builder.Services.AddDbContext use ?
+----------------------------------------
+The builder.Services.AddDbContext method is used in ASP.NET Core applications to register a DbContext class with the dependency injection container. This method allows DbContext instances to be injected into other components, such as controllers or services, facilitating database access and management within the application.
+
+17. Migrations in EF Core ?
+---------------------------
+Migrations in EF Core are a way to manage and apply changes to the database schema based on changes made to the entity classes in the application, ensuring consistency between the application's data model and the database schema.
+
+18. Add-Migration <migration name>
+-----------------------------------
+The "Add-Migration" command in Entity Framework Core creates a new migration with the specified name, capturing the changes made to the application's data model since the last migration, enabling developers to manage database schema changes effectively.
+
+19. Update-database
+--------------------
+The "Update-Database" command in Entity Framework Core applies pending migrations to the database, facilitating seamless database schema updates.
+
+20. How to do CRUD operations in EntityFramework ? Give a description and sample code
+--------------------------------------------------------------------------------------
+CRUD operations in Entity Framework Core involve creating, reading, updating, and deleting data from the database using the DbContext and DbSet classes.
+
+Instantiate a new instance of the entity class.
+Assign values to its properties.
+Add the entity to the EF context.
+Save changes to persist the new record to the database.

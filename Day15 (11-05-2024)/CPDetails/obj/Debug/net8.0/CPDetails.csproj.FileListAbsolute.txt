@@ -1,0 +1,132 @@
+D:\dotNetTasks\CPDetails\bin\Debug\net8.0\appsettings.Development.json
+D:\dotNetTasks\CPDetails\bin\Debug\net8.0\appsettings.json
+D:\dotNetTasks\CPDetails\bin\Debug\net8.0\CPDetails.exe
+D:\dotNetTasks\CPDetails\bin\Debug\net8.0\CPDetails.deps.json
+D:\dotNetTasks\CPDetails\bin\Debug\net8.0\CPDetails.runtimeconfig.json
+D:\dotNetTasks\CPDetails\bin\Debug\net8.0\CPDetails.dll
+D:\dotNetTasks\CPDetails\bin\Debug\net8.0\CPDetails.pdb
+D:\dotNetTasks\CPDetails\bin\Debug\net8.0\Humanizer.dll
+D:\dotNetTasks\CPDetails\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\dotNetTasks\CPDetails\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\dotNetTasks\CPDetails\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\dotNetTasks\CPDetails\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\dotNetTasks\CPDetails\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\dotNetTasks\CPDetails\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\dotNetTasks\CPDetails\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\dotNetTasks\CPDetails\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\dotNetTasks\CPDetails\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\dotNetTasks\CPDetails\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\dotNetTasks\CPDetails\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\dotNetTasks\CPDetails\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\dotNetTasks\CPDetails\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\dotNetTasks\CPDetails\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\dotNetTasks\CPDetails\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\dotNetTasks\CPDetails\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\dotNetTasks\CPDetails\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\dotNetTasks\CPDetails\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\dotNetTasks\CPDetails\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\dotNetTasks\CPDetails\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\dotNetTasks\CPDetails\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\dotNetTasks\CPDetails\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\dotNetTasks\CPDetails\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\dotNetTasks\CPDetails\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\dotNetTasks\CPDetails\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\dotNetTasks\CPDetails\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\dotNetTasks\CPDetails\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dotNetTasks\CPDetails\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dotNetTasks\CPDetails\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dotNetTasks\CPDetails\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dotNetTasks\CPDetails\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\dotNetTasks\CPDetails\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\dotNetTasks\CPDetails\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\dotNetTasks\CPDetails\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\dotNetTasks\CPDetails\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\dotNetTasks\CPDetails\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\dotNetTasks\CPDetails\obj\Debug\net8.0\CPDetails.csproj.AssemblyReference.cache
+D:\dotNetTasks\CPDetails\obj\Debug\net8.0\CPDetails.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotNetTasks\CPDetails\obj\Debug\net8.0\CPDetails.AssemblyInfoInputs.cache
+D:\dotNetTasks\CPDetails\obj\Debug\net8.0\CPDetails.AssemblyInfo.cs
+D:\dotNetTasks\CPDetails\obj\Debug\net8.0\CPDetails.csproj.CoreCompileInputs.cache
+D:\dotNetTasks\CPDetails\obj\Debug\net8.0\CPDetails.MvcApplicationPartsAssemblyInfo.cs
+D:\dotNetTasks\CPDetails\obj\Debug\net8.0\CPDetails.MvcApplicationPartsAssemblyInfo.cache
+D:\dotNetTasks\CPDetails\obj\Debug\net8.0\CPDetails.sourcelink.json
+D:\dotNetTasks\CPDetails\obj\Debug\net8.0\staticwebassets.build.json
+D:\dotNetTasks\CPDetails\obj\Debug\net8.0\staticwebassets.development.json
+D:\dotNetTasks\CPDetails\obj\Debug\net8.0\staticwebassets\msbuild.CPDetails.Microsoft.AspNetCore.StaticWebAssets.props
+D:\dotNetTasks\CPDetails\obj\Debug\net8.0\staticwebassets\msbuild.build.CPDetails.props
+D:\dotNetTasks\CPDetails\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CPDetails.props
+D:\dotNetTasks\CPDetails\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CPDetails.props
+D:\dotNetTasks\CPDetails\obj\Debug\net8.0\staticwebassets.pack.json
+D:\dotNetTasks\CPDetails\obj\Debug\net8.0\scopedcss\bundle\CPDetails.styles.css
+D:\dotNetTasks\CPDetails\obj\Debug\net8.0\CPDetails.csproj.Up2Date
+D:\dotNetTasks\CPDetails\obj\Debug\net8.0\CPDetails.dll
+D:\dotNetTasks\CPDetails\obj\Debug\net8.0\refint\CPDetails.dll
+D:\dotNetTasks\CPDetails\obj\Debug\net8.0\CPDetails.pdb
+D:\dotNetTasks\CPDetails\obj\Debug\net8.0\CPDetails.genruntimeconfig.cache
+D:\dotNetTasks\CPDetails\obj\Debug\net8.0\ref\CPDetails.dll
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\bin\Debug\net8.0\appsettings.Development.json
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\bin\Debug\net8.0\appsettings.json
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\bin\Debug\net8.0\CPDetails.exe
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\bin\Debug\net8.0\CPDetails.deps.json
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\bin\Debug\net8.0\CPDetails.runtimeconfig.json
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\bin\Debug\net8.0\CPDetails.dll
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\bin\Debug\net8.0\CPDetails.pdb
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\bin\Debug\net8.0\Humanizer.dll
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\obj\Debug\net8.0\CPDetails.csproj.AssemblyReference.cache
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\obj\Debug\net8.0\CPDetails.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\obj\Debug\net8.0\CPDetails.AssemblyInfoInputs.cache
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\obj\Debug\net8.0\CPDetails.AssemblyInfo.cs
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\obj\Debug\net8.0\CPDetails.csproj.CoreCompileInputs.cache
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\obj\Debug\net8.0\CPDetails.MvcApplicationPartsAssemblyInfo.cs
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\obj\Debug\net8.0\CPDetails.MvcApplicationPartsAssemblyInfo.cache
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\obj\Debug\net8.0\CPDetails.sourcelink.json
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\obj\Debug\net8.0\staticwebassets.build.json
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\obj\Debug\net8.0\staticwebassets.development.json
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\obj\Debug\net8.0\staticwebassets\msbuild.CPDetails.Microsoft.AspNetCore.StaticWebAssets.props
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\obj\Debug\net8.0\staticwebassets\msbuild.build.CPDetails.props
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CPDetails.props
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CPDetails.props
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\obj\Debug\net8.0\staticwebassets.pack.json
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\obj\Debug\net8.0\scopedcss\bundle\CPDetails.styles.css
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\obj\Debug\net8.0\CPDetails.csproj.Up2Date
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\obj\Debug\net8.0\CPDetails.dll
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\obj\Debug\net8.0\refint\CPDetails.dll
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\obj\Debug\net8.0\CPDetails.pdb
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\obj\Debug\net8.0\CPDetails.genruntimeconfig.cache
+D:\dotNetTasks\Day16 (11-05-2024)\CPDetails\obj\Debug\net8.0\ref\CPDetails.dll
