@@ -1,0 +1,6 @@
+@Routes_HostAddress = http://localhost:5105
+
+GET {{Routes_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

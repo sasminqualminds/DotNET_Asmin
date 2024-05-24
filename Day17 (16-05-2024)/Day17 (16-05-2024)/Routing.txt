@@ -1,0 +1,38 @@
+1. what is routing ?
+---------------------
+	1. Routing in ASP.NET is a powerful mechanism that directs incoming HTTP requests to the appropriate controller actions.
+	2. It enables you to create clean and structured URLs for your web application and provides flexibility in defining custom routes and constraints.
+
+Types of Routing in ASP.NET:
+1. Convention-Based Routing
+2. Attribute-Based Routing
+	
+2. what is conventional routing ?
+----------------------------------
+	1. Routes are defined based on conventions (e.g., controller/action names).
+	2. is an approach that uses a predefined pattern to map requests to controller actions.
+	3. example, if a user navigates to https://example.com/Products/GetProduct/42, the GetProduct action will be invoked with id equal to 42.
+
+3. what is attribute routing ?
+------------------------------
+	1. Attribute routing in ASP.NET (including both MVC and Web API) allows you to define routes directly on actions and controllers using attributes. 
+	2. Attribute routing uses the [Route] attribute to define routes.
+	3. You apply this attribute to controller classes or action methods.
+	4. It provides more control over URIs compared to conventional routing.
+	5. In this case, the [HttpGet("{id}")] attribute specifies that the GetProduct action should respond to requests with the specified URL pattern.
+	6. Now, when a user visits https://example.com/api/products/42, the GetProduct action will handle it.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
