@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dotNetTasks\\MVC1.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5F81209-44C6-4693-8D70-B14C09CC1EF0}|MVC1.2.csproj|d:\\dotnettasks\\mvc1.2\\views\\common\\viewall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5F81209-44C6-4693-8D70-B14C09CC1EF0}|MVC1.2.csproj|solutionrelative:views\\common\\viewall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5F81209-44C6-4693-8D70-B14C09CC1EF0}|MVC1.2.csproj|d:\\dotnettasks\\mvc1.2\\views\\employee\\viewdisplaylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5F81209-44C6-4693-8D70-B14C09CC1EF0}|MVC1.2.csproj|solutionrelative:views\\employee\\viewdisplaylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5F81209-44C6-4693-8D70-B14C09CC1EF0}|MVC1.2.csproj|d:\\dotnettasks\\mvc1.2\\views\\employee\\viewdisplay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5F81209-44C6-4693-8D70-B14C09CC1EF0}|MVC1.2.csproj|solutionrelative:views\\employee\\viewdisplay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5F81209-44C6-4693-8D70-B14C09CC1EF0}|MVC1.2.csproj|d:\\dotnettasks\\mvc1.2\\controllers\\commoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5F81209-44C6-4693-8D70-B14C09CC1EF0}|MVC1.2.csproj|solutionrelative:controllers\\commoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5F81209-44C6-4693-8D70-B14C09CC1EF0}|MVC1.2.csproj|d:\\dotnettasks\\mvc1.2\\models\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5F81209-44C6-4693-8D70-B14C09CC1EF0}|MVC1.2.csproj|solutionrelative:models\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5F81209-44C6-4693-8D70-B14C09CC1EF0}|MVC1.2.csproj|d:\\dotnettasks\\mvc1.2\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5F81209-44C6-4693-8D70-B14C09CC1EF0}|MVC1.2.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5F81209-44C6-4693-8D70-B14C09CC1EF0}|MVC1.2.csproj|d:\\dotnettasks\\mvc1.2\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5F81209-44C6-4693-8D70-B14C09CC1EF0}|MVC1.2.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5F81209-44C6-4693-8D70-B14C09CC1EF0}|MVC1.2.csproj|d:\\dotnettasks\\mvc1.2\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5F81209-44C6-4693-8D70-B14C09CC1EF0}|MVC1.2.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "viewAll.cshtml",
+              "DocumentMoniker": "D:\\dotNetTasks\\MVC1.2\\Views\\Common\\viewAll.cshtml",
+              "RelativeDocumentMoniker": "Views\\Common\\viewAll.cshtml",
+              "ToolTip": "D:\\dotNetTasks\\MVC1.2\\Views\\Common\\viewAll.cshtml",
+              "RelativeToolTip": "Views\\Common\\viewAll.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T07:06:49.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Common.cs",
+              "DocumentMoniker": "D:\\dotNetTasks\\MVC1.2\\Models\\Common.cs",
+              "RelativeDocumentMoniker": "Models\\Common.cs",
+              "ToolTip": "D:\\dotNetTasks\\MVC1.2\\Models\\Common.cs",
+              "RelativeToolTip": "Models\\Common.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T06:36:19.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\dotNetTasks\\MVC1.2\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Models\\Course.cs",
+              "ToolTip": "D:\\dotNetTasks\\MVC1.2\\Models\\Course.cs",
+              "RelativeToolTip": "Models\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T06:31:31.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CommonController.cs",
+              "DocumentMoniker": "D:\\dotNetTasks\\MVC1.2\\Controllers\\CommonController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CommonController.cs",
+              "ToolTip": "D:\\dotNetTasks\\MVC1.2\\Controllers\\CommonController.cs",
+              "RelativeToolTip": "Controllers\\CommonController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAIwCoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T06:31:05.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "viewDisplayList.cshtml",
+              "DocumentMoniker": "D:\\dotNetTasks\\MVC1.2\\Views\\Employee\\viewDisplayList.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\viewDisplayList.cshtml",
+              "ToolTip": "D:\\dotNetTasks\\MVC1.2\\Views\\Employee\\viewDisplayList.cshtml",
+              "RelativeToolTip": "Views\\Employee\\viewDisplayList.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T06:27:14.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "viewDisplay.cshtml",
+              "DocumentMoniker": "D:\\dotNetTasks\\MVC1.2\\Views\\Employee\\viewDisplay.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\viewDisplay.cshtml",
+              "ToolTip": "D:\\dotNetTasks\\MVC1.2\\Views\\Employee\\viewDisplay.cshtml",
+              "RelativeToolTip": "Views\\Employee\\viewDisplay.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T06:02:54.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\dotNetTasks\\MVC1.2\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\dotNetTasks\\MVC1.2\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAcwBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T05:48:04.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\dotNetTasks\\MVC1.2\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "D:\\dotNetTasks\\MVC1.2\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T05:44:16.71Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
